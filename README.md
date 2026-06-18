@@ -12,4 +12,4 @@ See [Polyomino](https://en.wikipedia.org/wiki/Polyomino).
 - Regular
  
 # Preview
-![Polyomino Regular Showcase](images/showcase-regular.svg)
+![Polyomino Regular Showcase](images/showcase-regular.png)
