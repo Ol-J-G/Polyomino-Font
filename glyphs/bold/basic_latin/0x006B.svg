@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144"
+   height="272"
+   viewBox="0 0 38.099996 71.966658"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="0x006B.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.3367669"
+     inkscape:cx="103.98983"
+     inkscape:cy="84.304513"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.52916667"
+       spacingy="0.52916667"
+       empcolor="#efea07"
+       empopacity="0.30196078"
+       color="#c4e500"
+       opacity="0.14901961"
+       empspacing="8"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path18"
+       style="fill-opacity:0.804233;stroke-width:0.350726"
+       d="m 4.2333333,-4.2333333 c 0,18.3444443 0,36.6888893 0,55.0333333 2.8222222,0 5.6444445,0 8.4666667,0 0,-7.055556 0,-14.111111 0,-21.166667 2.822222,0 5.644445,0 8.466667,0 0,1.411111 0,2.822223 0,4.233334 1.411111,0 2.822222,0 4.233333,0 0,5.644444 0,11.288889 0,16.933333 2.822222,0 5.644445,0 8.466667,0 0,-8.466667 0,-16.933333 0,-25.4 -1.411111,0 -2.822223,0 -4.233334,0 0,-1.411111 0,-2.822222 0,-4.233333 1.411111,0 2.822223,0 4.233334,0 0,-4.233333 0,-8.466667 0,-12.7000003 -2.822222,0 -5.644445,0 -8.466667,0 0,1.4111111 0,2.8222223 0,4.2333333 -1.411111,0 -2.822222,0 -4.233333,0 0,1.411111 0,2.822222 0,4.233333 -2.822222,0 -5.644445,0 -8.466667,0 0,-7.0555554 0,-14.1111109 0,-21.1666663 -2.8222222,0 -5.6444445,0 -8.4666667,0 z" />
+  </g>
+</svg>

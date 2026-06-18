@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="272"
+   viewBox="0 0 33.866663 71.966658"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="0x005C.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.6735337"
+     inkscape:cx="-49.427267"
+     inkscape:cy="120.14463"
+     inkscape:window-width="1906"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.52916667"
+       spacingy="0.52916667"
+       empcolor="#efea07"
+       empopacity="0.30196078"
+       color="#c4e500"
+       opacity="0.14901961"
+       empspacing="8"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill-opacity:0.804233;stroke-width:0.429549"
+       d="m 0,-4.2333318 v 12.7 l 4.233334,2.1e-6 v 8.4666657 l 4.2333341,2e-6 v 8.466667 h 4.2333339 v 8.586556 l 4.233334,-0.119888 v 8.346777 l 4.233334,0.119891 v 8.466667 l 8.466668,1e-6 v -12.7 H 25.400005 V 29.633342 H 21.166671 V 21.166676 H 16.933338 V 12.700009 H 12.700005 V 4.2333425 H 8.4666716 v -8.4666666 z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  </g>
+</svg>
