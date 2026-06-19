@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="80"
+   width="96"
    height="272"
-   viewBox="0 0 21.166664 71.966658"
+   viewBox="0 0 25.399997 71.966658"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -59,7 +59,7 @@
     <path
        id="rect1"
        style="fill-opacity:0.804233;stroke-width:0.429549"
-       d="m 8.4666682,-4.2333341 0,55.0333431 h 4.2333328 l 0,-55.0333431 z"
+       d="m 8.4666686,-8.4666682 -4e-7,59.2666772 h 8.4666678 l 0,-59.2666772 z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
