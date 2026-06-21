@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="80"
+   width="96"
    height="272"
-   viewBox="0 0 21.166664 71.966658"
+   viewBox="0 0 25.399997 71.966658"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="0x0072.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -58,13 +58,13 @@
      id="layer1">
     <path
        id="path18"
-       style="fill-opacity:0.804233;stroke-width:0.429549"
-       d="M 16.933336,21.16667 H 4.2333341 v 4.233334 H 16.933336 Z"
+       style="fill-opacity:0.804233;stroke-width:0.701451"
+       d="M 21.166667,16.933336 H 4.2333341 v 8.466668 H 21.166667 Z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path25"
-       style="fill-opacity:0.804233;stroke-width:0.607474"
-       d="m 8.4666691,25.400004 h -4.233335 v 25.400005 h 4.233335 z"
+       style="fill-opacity:0.804233;stroke-width:0.859098"
+       d="M 12.700002,25.400004 H 4.2333341 v 25.400005 h 8.4666679 z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

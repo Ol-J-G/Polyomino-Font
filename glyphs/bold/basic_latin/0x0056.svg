@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="144"
+   width="192"
    height="272"
-   viewBox="0 0 38.099996 71.966658"
+   viewBox="0 0 50.799995 71.966658"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -59,22 +59,7 @@
     <path
        id="path1"
        style="fill-opacity:0.804233;stroke-width:0.656146"
-       d="M 4.233334,-4.2333341 H 8.466668 V 25.400005 H 4.233334 Z" />
-    <path
-       id="path2"
-       style="fill-opacity:0.804233;stroke-width:0.607473"
-       d="M 8.4666681,21.16667 H 12.700002 V 46.566676 H 8.4666681 Z" />
-    <path
-       id="path3"
-       style="fill-opacity:0.804233;stroke-width:0.554545"
-       d="M 8.4666681,46.566676 H 29.633338 v 4.233333 H 8.4666681 Z" />
-    <path
-       id="path6"
-       style="fill-opacity:0.804233;stroke-width:0.656146"
-       d="M 33.866672,-4.2333341 H 29.633338 V 25.400005 h 4.233334 z" />
-    <path
-       id="path7"
-       style="fill-opacity:0.804233;stroke-width:0.607473"
-       d="m 29.633338,21.16667 h -4.233334 v 25.400006 h 4.233334 z" />
+       d="M 4.233334,-8.4666682 4.2333287,25.4 l 8.4666663,-5e-6 v 25.4 h 25.400001 v -25.4 l 8.466673,5e-6 5e-6,-33.8666682 -8.466673,-4.2e-6 V 16.933331 l -8.466663,8e-6 -5e-6,25.399997 -8.466668,-5e-6 5e-6,-25.399996 -8.466673,-4e-6 V -8.4666724 Z"
+       sodipodi:nodetypes="ccccccccccccccccc" />
   </g>
 </svg>

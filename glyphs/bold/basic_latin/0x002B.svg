@@ -56,33 +56,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#000000;stroke-width:0.27167"
+    <path
        id="rect1"
-       width="4.2333336"
-       height="25.400003"
-       x="12.700002"
-       y="8.4666681" />
-    <rect
        style="fill:#000000;stroke-width:0.27167"
-       id="rect2"
-       width="4.2333336"
-       height="25.400003"
-       x="16.933336"
-       y="8.4666681" />
-    <rect
-       style="fill:#000000;stroke-width:0.27167"
-       id="rect3"
-       width="25.400003"
-       height="4.2333336"
-       x="4.2333345"
-       y="16.933338" />
-    <rect
-       style="fill:#000000;stroke-width:0.27167"
-       id="rect4"
-       width="25.400003"
-       height="4.2333336"
-       x="4.2333345"
-       y="21.166672" />
+       d="M 12.7,8.4666667 V 16.933333 H 4.2333333 V 25.4 H 12.7 v 8.466667 h 8.466667 l 3e-6,-8.466662 8.466663,-5e-6 V 16.933333 H 21.166667 V 8.4666667 Z"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

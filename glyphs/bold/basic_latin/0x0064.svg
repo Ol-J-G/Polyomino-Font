@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="144"
+   width="160"
    height="272"
-   viewBox="0 0 38.099996 71.966658"
+   viewBox="0 0 42.333329 71.966658"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -58,23 +58,8 @@
      id="layer1">
     <path
        id="path15"
-       style="fill-opacity:0.804233;stroke-width:0.656146"
-       d="m 4.233334,46.566674 h 29.633339 v 4.233335 H 4.233334 Z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path16"
-       style="fill-opacity:0.804233;stroke-width:0.656146"
-       d="m 4.233334,21.166669 h 29.633339 v 4.233335 H 4.233334 Z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path18"
-       style="fill-opacity:0.804233;stroke-width:0.554546"
-       d="m 4.233334,25.400004 h 4.233334 v 21.16667 H 4.233334 Z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path19"
-       style="fill-opacity:0.804233;stroke-width:0.859098"
-       d="m 29.633339,-4.233333 h 4.233334 v 50.800007 h -4.233334 z"
-       sodipodi:nodetypes="ccccc" />
+       style="fill-opacity:0.804233;stroke-width:0.92793"
+       d="M 29.633338,-8.4666621 V 16.933338 l -25.4000047,-5e-6 V 50.8 l 33.8666717,5e-6 V -8.4666621 Z M 12.7,25.4 l 16.933338,5e-6 V 42.333338 L 12.7,42.333333 Z"
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>

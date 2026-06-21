@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="96"
+   width="112"
    height="272"
-   viewBox="0 0 25.399997 71.966658"
+   viewBox="0 0 29.63333 71.966658"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -58,18 +58,18 @@
      id="layer1">
     <path
        id="path16"
-       style="fill-opacity:0.804233;stroke-width:0.350725"
-       d="m 12.700002,-4.2333341 h 8.466667 V 9.025495e-7 h -8.466667 z"
+       style="fill-opacity:0.804233;stroke-width:0.607473"
+       d="M 12.700002,-8.4666682 H 25.4 V 9.025495e-7 H 12.700002 Z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path18"
-       style="fill-opacity:0.804233;stroke-width:0.894179"
-       d="M 8.4666691,-4.2333341 H 12.700004 V 50.800009 H 8.4666691 Z"
+       style="fill-opacity:0.804233;stroke-width:1.3123"
+       d="M 8.4666691,-8.4666682 H 16.933336 V 50.800009 H 8.4666691 Z"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path20"
-       style="fill-opacity:0.804233;stroke-width:0.496"
-       d="M 4.2333341,21.16667 H 21.166672 v 4.233335 H 4.2333341 Z"
+       style="fill-opacity:0.804233;stroke-width:0.784245"
+       d="M 4.2333341,16.933336 H 25.4 v 8.466669 H 4.2333341 Z"
        sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

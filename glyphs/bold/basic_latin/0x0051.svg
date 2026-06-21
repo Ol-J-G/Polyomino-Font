@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="144"
+   width="160"
    height="272"
-   viewBox="0 0 38.099996 71.966658"
+   viewBox="0 0 42.333329 71.966658"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -59,34 +59,7 @@
     <path
        id="path1"
        style="fill-opacity:0.804233;stroke-width:0.894175"
-       d="m 29.633339,-4.2333341 h 4.233333 V 50.800009 h -4.233333 z" />
-    <path
-       id="path3"
-       style="fill-opacity:0.804233;stroke-width:0.894176"
-       d="M 4.233334,-4.2333341 H 8.466667 V 50.800009 H 4.233334 Z" />
-    <path
-       id="path4"
-       style="fill-opacity:0.804233;stroke-width:0.000181838"
-       d="m 25.400002,46.566676 h 2e-6 v 4.233333 h -2e-6 z" />
-    <path
-       id="path8"
-       style="fill-opacity:0.804233;stroke-width:0.554545"
-       d="M 8.4666681,-4.2333341 H 29.633336 V -7.974505e-7 H 8.4666681 Z" />
-    <path
-       id="path11"
-       style="fill-opacity:0.804233;stroke-width:0.554545"
-       d="M 8.4666683,46.566675 H 29.633338 V 50.80001 H 8.4666683 Z" />
-    <path
-       id="path2"
-       style="fill-opacity:0.804233;stroke-width:0.248"
-       d="m 21.16667,42.333342 h 4.233333 v 4.233333 H 21.16667 Z" />
-    <path
-       id="path5"
-       style="fill-opacity:0.804233;stroke-width:0.248"
-       d="m 21.16667,50.800009 h 4.233333 v 4.233333 H 21.16667 Z" />
-    <path
-       id="path6"
-       style="fill-opacity:0.804233;stroke-width:0.248"
-       d="m 21.16667,38.100007 h 4.233333 V 42.33334 H 21.16667 Z" />
+       d="M 4.2333386,-8.4666682 4.2333333,50.8 H 16.933332 l 8e-6,8.466687 8.466664,-10e-6 -8e-6,-8.466687 12.700005,10e-6 5e-6,-59.2666682 z M 12.700002,0 h 16.933336 l 4e-6,42.33334 -4.233342,-1e-5 v -8.466667 l -8.466664,10e-6 v 8.466667 h -4.23333 z"
+       sodipodi:nodetypes="cccccccccccccccccc" />
   </g>
 </svg>

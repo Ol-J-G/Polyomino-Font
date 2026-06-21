@@ -62,11 +62,11 @@
        d="m 25.400002,46.566676 h 2e-6 v 4.233333 h -2e-6 z" />
     <path
        id="path11"
-       style="fill-opacity:0.804233;stroke-width:0.429548"
-       d="m 4.2333339,46.566675 h 4.233334 v 12.699992 h -4.233334 z" />
+       style="fill-opacity:0.804233;stroke-width:0.495999"
+       d="m 4.2333339,42.333341 h 4.233334 v 16.933326 h -4.233334 z" />
     <path
        id="path1"
-       style="fill-opacity:0.804233;stroke-width:0.429548"
-       d="M 8.4666679,46.566675 H 12.700002 V 59.266667 H 8.4666679 Z" />
+       style="fill-opacity:0.804233;stroke-width:0.495999"
+       d="M 8.4666679,42.333341 H 12.700002 V 59.266667 H 8.4666679 Z" />
   </g>
 </svg>

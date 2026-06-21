@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="80"
+   width="112"
    height="272"
-   viewBox="0 0 21.166664 71.966658"
+   viewBox="0 0 29.63333 71.966658"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -58,23 +58,7 @@
      id="layer1">
     <path
        id="path5"
-       style="fill-opacity:0.804233;stroke-width:0.429549"
-       d="M 4.2333341,-4.2333341 H 16.933336 V -1.5974505e-6 H 4.2333341 Z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path8"
-       style="fill-opacity:0.804233;stroke-width:0.248"
-       d="m 4.2333341,-1.5974505e-6 h 4.233333 V 4.2333318 h -4.233333 z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path9"
-       style="fill-opacity:0.804233;stroke-width:0.248"
-       d="m 12.700002,-1.1974505e-6 h 4.233333 V 4.2333318 h -4.233333 z"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path10"
-       style="fill-opacity:0.804233;stroke-width:0.429549"
-       d="M 4.2333341,4.2333328 H 16.933336 v 4.233335 H 4.2333341 Z"
-       sodipodi:nodetypes="ccccc" />
+       style="fill-opacity:0.804233;stroke-width:0.607474"
+       d="m 4.2333333,-8.4666667 c 0,7.0555556 0,14.1111111 0,21.1666667 7.0555557,0 14.1111107,0 21.1666667,0 0,-7.0555556 0,-14.1111111 0,-21.1666667 -7.055556,0 -14.111111,0 -21.1666667,0 z M 12.7,0 c 1.411111,0 2.822222,0 4.233333,0 0,1.4111111 0,2.8222222 0,4.2333333 -1.411111,0 -2.822222,0 -4.233333,0 0,-1.4111111 0,-2.8222222 0,-4.2333333 z" />
   </g>
 </svg>
