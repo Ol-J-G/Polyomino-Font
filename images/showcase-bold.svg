@@ -57,6 +57,16 @@
        orientation="0,-1"
        id="guide5"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.185084,94.558876"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25.433823,84.264233"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
@@ -212,13 +222,13 @@
          sodipodi:role="line"
          id="tspan97"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9411px;font-family:'Polyomino Bold';-inkscape-font-specification:'Polyomino Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0566392"
-         x="109.58626"
+         x="109.58625"
          y="239.87851">The Quick Brown Fox Jumps Over a Lazy Dog </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9411px;font-family:'Polyomino Bold';-inkscape-font-specification:'Polyomino Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0566392"
          x="109.58625"
          y="249.80489"
-         id="tspan98">While XYZ Corp </tspan><tspan
+         id="tspan98">While XYZ Corp maximal </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9411px;font-family:'Polyomino Bold';-inkscape-font-specification:'Polyomino Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0566392"
          x="109.58625"
