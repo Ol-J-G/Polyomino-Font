@@ -8,10 +8,11 @@ A simple, geometric font whose characters consist entirely<sup>*</sup> of polyom
 Source and more Info: [Polyomino](https://en.wikipedia.org/wiki/Polyomino).
 
 # Exceptions<sup>*</sup>
-The lowercase ‘x’ in the bold variant is, as an exception, composed of squares that are 25% the size
-of the standard squares used in other bold characters to form polyominoes.
-It seems geometrically impossible to remain within the grid of the other bold
-lowercase letters while simultaneously using 100%-sized bold squares.
+Some glyphs of the bold variant are composed of squares that are 25% the size
+of the squares used in other bold characters to form polyominoes.
+Sometimes, it seems geometrically impossible to remain within the grid 
+while simultaneously using 100%-sized bold squares, or it simply does 
+not look harmonic.
 
 
 # Glyphs
