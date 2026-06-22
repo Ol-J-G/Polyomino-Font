@@ -24,4 +24,7 @@ not look harmonic.
 - Bold 
  
 # Preview
+## Regular
 ![Polyomino Regular Showcase](images/showcase-regular.png)
+## Bold
+![Polyomino Bold Showcase](images/showcase-bold.png)
