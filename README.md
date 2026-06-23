@@ -14,7 +14,6 @@ Sometimes, it seems geometrically impossible to remain within the grid
 while simultaneously using 100%-sized bold squares, or it simply does 
 not look harmonic.
 
-
 # Glyphs
 - Basic Latin
 - Some glyphs of Latin-1 Supplement (äüöÄÜÖß°´)
@@ -22,6 +21,10 @@ not look harmonic.
 # Weights
 - Regular
 - Bold 
+
+# How to modify/create ttf files
+For a simple Font like Polyomino (without ligatures, etc.), this tool can be used:
+[SVG-FontGenerator](https://github.com/Ol-J-G/SVG-FontGenerator)
  
 # Preview
 ## Regular
